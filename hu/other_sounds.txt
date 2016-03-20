@@ -60,5 +60,5 @@
 "cf-sonar;SONAR;Szonár bekapcsolva",
 "cf-tri;TELEMETRY;Telemetria engedélyezve",
 "cf-blb;BLACKBOX;Feketedoboz felvétel el indítva",
-"cf-lsafe;FAILSAFE;Biztonsági beállítások életbe léptek",
+"cf-fsafe;FAILSAFE;Biztonsági beállítások életbe léptek",
 "cf-air;AIRMODE;Stabilizált műrepülés",
