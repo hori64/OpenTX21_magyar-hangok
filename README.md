@@ -10,4 +10,4 @@ A Mariska21 branch az OpenTX 2.0-hoz, Smith által késztett magyar-hang, 2.1-he
 Az OpenTXspeaker21_hu.exe a magyarhoz módosított program. Csak a magyar nyelvet tartalmazza, alapértelmezetten 2.1-hez generálja a hang-csomagot a SOUNDS/hu könyvtárba.
 
 A kiválasztott branch-et egyszerűen letölteni a "Download ZIP" gombbal lehet.
-OpenTX 2.1.8-nál korábbi verzió esetén csak az "en" könyvtárba másolva és angol nyelvet választva működik helyesen!
+
