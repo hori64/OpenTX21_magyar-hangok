@@ -1,7 +1,7 @@
 # OpenTX_magyar-hangok
 Magyar hangcsomagok az OpenTX 2.x.x verziójához
 
-opentx.sdcard.version : 
+opentx.sdcard.version : 2.2V0010
 
 A master branch "hu" könyvtárában az általam kreált "Eszter" hangpakk van. (Az aktuális OpenTX vezióhoz alakítva)
 
