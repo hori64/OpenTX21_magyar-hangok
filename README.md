@@ -1,5 +1,5 @@
 # OpenTX_magyar-hangok
-Magyar hangcsomagok az OpenTX 2.x.x verziójához
+Magyar hangcsomagok az OpenTX-hez.
 
 A master branch "hu" könyvtárában az általam kreált "Eszter" hangpakk van. (Az aktuális OpenTX vezióhoz alakítva.)
 
